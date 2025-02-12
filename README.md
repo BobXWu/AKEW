@@ -1,7 +1,10 @@
-# AKEW: Assessing Knowledge Editing in the Wild
+# EMNLP2024 - AKEW: Assessing Knowledge Editing in the Wild
 
-This repo contains the datasets used in our [paper](https://aclanthology.org/2024.emnlp-main.843.pdf).
+This repo contains the datasets used in our [paper](https://aclanthology.org/2024.emnlp-main.843.pdf) published at EMNLP 2024 main conference.
 The datasets are under [`./datasets`](https://github.com/BobXWu/AKEW/tree/master/datasets).
+
+## Contact
+- If you encounter any issues, please either directly contact **Xiaobao Wu (xiaobao002@e.ntu.edu.sg)** or leave an issue in the GitHub repo.
 
 ## Citation
 If you are interested in our work, please cite as
